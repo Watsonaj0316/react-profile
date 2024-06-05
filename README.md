@@ -2,7 +2,7 @@
 
 A simple portfolio template for developer/designers built with React. 
 
-### [Screenshot]
+### Screenshot
 
 ![screenshot](IMG_8692.jpg) 
 
