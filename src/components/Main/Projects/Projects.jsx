@@ -8,7 +8,7 @@ export const Projects = () => {
     <section className={styles.projects}>
       <h1>PROJECTS</h1>
       {projectData.map((project, index) => (
-        <ProjectDetail project={project} no={index + 1} />
+        <ProjectDetail key={project.name} project={project} no={index + 1} />
       ))}
     </section>
   );

@@ -1,8 +1,9 @@
+import avatarImage from '../../images/IMG_8673.jpg';
 export const contact = {
   name: "Alyece Watson",
   job: "Web Developer",
   avatar: {
-    src: "/IMG_8673.jpg", 
+    src: avatarImage, 
     alt: "Alyece Watson's Avatar"
   },
   email: "watsonalyece33@gmail.com",
