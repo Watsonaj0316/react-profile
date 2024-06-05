@@ -1,17 +1,15 @@
 {
   "name": "react-profile",
   "version": "1.0.0",
-  "main": "index.js",
+  "homepage": "https://github.com/Watsonaj0316/react-profile",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
   "dependencies": {
     "@emotion/core": "^11.0.0",
     "@emotion/react": "^11.11.4",
@@ -26,6 +24,9 @@
     "react-router-dom": "^6.23.1",
     "react-scripts": "^5.0.1",
     "react-spinners": "^0.13.8"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   },
   "eslintConfig": {
     "extends": "react-app"
