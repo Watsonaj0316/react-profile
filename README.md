@@ -2,22 +2,24 @@
 
 A simple portfolio template for developer/designers built with React. 
 
-### [live preview]
+### [Screenshot]
 
-[![react portfoiio] 
+![screenshot](IMG_8692.jpg) 
+
+
+![react portfoiio] 
 ### Features
 
 - Fully Responsive
-- Multi-Page Layout
-- Contact Form With EmailJs
+- Contact Form With Email and LinkedIn
 - React-Bootstrap
-- Edit Content From One Place
+
 
 ### Setup
 
 Get the code
 
-<pre>git clone https://github.com/ubaimutl/react-portfolio.git</pre>
+<pre>git clone git@github.com:Watsonaj0316/react-profile.git </pre>
  
 Install required dependencies
 
