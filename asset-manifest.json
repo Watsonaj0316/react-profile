@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Watsonaj0316/react-profile/1/static/css/main.328a503c.css",
-    "main.js": "/Watsonaj0316/react-profile/1/static/js/main.b282e361.js",
-    "static/media/IMG_111.jpg.gif": "/Watsonaj0316/react-profile/1/static/media/IMG_111.jpg.65feb17b3b2dde135214.gif",
-    "index.html": "/Watsonaj0316/react-profile/1/index.html",
-    "main.328a503c.css.map": "/Watsonaj0316/react-profile/1/static/css/main.328a503c.css.map",
-    "main.b282e361.js.map": "/Watsonaj0316/react-profile/1/static/js/main.b282e361.js.map"
+    "main.css": "/Watsonaj0316/react-profile/static/css/main.328a503c.css",
+    "main.js": "/Watsonaj0316/react-profile/static/js/main.082f2315.js",
+    "static/media/IMG_111.jpg.gif": "/Watsonaj0316/react-profile/static/media/IMG_111.jpg.65feb17b3b2dde135214.gif",
+    "index.html": "/Watsonaj0316/react-profile/index.html",
+    "main.328a503c.css.map": "/Watsonaj0316/react-profile/static/css/main.328a503c.css.map",
+    "main.082f2315.js.map": "/Watsonaj0316/react-profile/static/js/main.082f2315.js.map"
   },
   "entrypoints": [
     "static/css/main.328a503c.css",
-    "static/js/main.b282e361.js"
+    "static/js/main.082f2315.js"
   ]
 }
