@@ -1,7 +1,7 @@
 {
   "name": "react-profile",
   "version": "1.0.0",
-  "homepage": "https://github.com/Watsonaj0316/react-profile/1",
+  "homepage": "https://github.com/Watsonaj0316/react-profile/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
