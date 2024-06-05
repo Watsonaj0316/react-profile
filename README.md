@@ -7,7 +7,12 @@ A simple portfolio template for developer/designers built with React.
 ![screenshot](IMG_8692.jpg) 
 
 
-![react portfoiio] 
+### Live Demo
+http://192.168.1.59:3000
+
+### Github
+https://github.com/Watsonaj0316/react-profile
+
 ### Features
 
 - Fully Responsive

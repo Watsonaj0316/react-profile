@@ -5,7 +5,7 @@ import { LinkIcon } from "../../Common/LinkIcon";
 import { faLinkedin } from "@fortawesome/free-brands-svg-icons";
 import { faGithub } from "@fortawesome/free-brands-svg-icons";
 import { contact as contactData } from "../../../assets/data/contact";
-import contactImage from "../../../../src/IMG_123.jpg";
+import contactImage from "../../../../src/IMG_111.jpg.gif";
 // Import your image file
 
 export const Contact = () => {
