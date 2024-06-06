@@ -8,7 +8,7 @@ A simple portfolio template for developer/designers built with React.
 
 
 ### Live Demo
-http://192.168.1.59:3000
+https://reactportfoliowatson.netlify.app/ 
 
 ### Github
 https://github.com/Watsonaj0316/react-profile
